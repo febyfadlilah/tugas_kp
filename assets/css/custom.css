@@ -1,0 +1,21 @@
+.navbarbaru{
+    background-image: url("../img/bg_tanpa_kop.jpg");
+}
+.model{
+    text-decoration:aliceblue;
+}
+.kepalanavbar{
+    background-color:#133118;
+}
+.icon{
+    background-color:white;
+}
+.atas{
+    box-shadow: inset 0px 5px 5px grey, inset 0px -5px 5px grey;
+}
+.heading{
+    font-family:forte;
+}
+.isi{
+    font-family:brody d;
+}

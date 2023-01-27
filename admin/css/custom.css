@@ -1,0 +1,19 @@
+.ukuran {
+    width: 150px;
+    height: 200px;
+}
+.ukuran2 {
+    width: 600px;
+    height: 300px;
+}
+.model{
+    list-style:none;
+    margin-left: -50px;
+}
+.model2{
+    float:right;
+    margin-right: -10px;
+}
+.model3{
+    margin-left: -50px;
+}
